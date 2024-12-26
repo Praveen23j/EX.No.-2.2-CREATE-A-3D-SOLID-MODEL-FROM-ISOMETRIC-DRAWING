@@ -95,18 +95,21 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 6.	Click Finish Sketch after completing.
 
 ## STEP-14:  Extrude CIRCLE 
-1.	Select Extrude.
+1.	Select Extrude.	
 2.	Select the pentogan sketch.
-3.	Click again to place the value.
+3.	Click again to place the value.	
 4.	Type in the value of 10mm on both side. 
-5.	Press ENTER to accept the value.
+5.	Press ENTER to accept the value.		
 
-## INPUT:
+## INPUT:	
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
-Output:
+Output:	
+	
+![Screenshot 2024-12-26 132322](https://github.com/user-attachments/assets/4c159fbb-6775-4f71-b7d2-8751d973e922)
 
 ## RESULT: 
-Thus, the 3D model is created from given isometric drawing.
+Thus, the 3D model is created from given isometric drawing.		
 
 
+		
